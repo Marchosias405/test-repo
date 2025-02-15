@@ -15,12 +15,12 @@ This is my personal portfolio website that showcases my bio, projects, work expe
 
 ## Installation / Usage
 To view the website, visit the GitHub Pages URL:
-https://marchosias405.github.io/Profile/
+https://marchosias405.github.io/test-repo/
 
 To run the project locally:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Marchosias405/Profile.git
+   git clone https://github.com/Marchosias405/test-repo.git
    ```
 2. Open the `index.html` file in your web browser.
 
